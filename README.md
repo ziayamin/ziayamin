@@ -5,7 +5,7 @@
 
 - 🔭 These days I'm working on different kinds of projects!
 - 👨‍💻 I’m currently learning **What i Need**
-- 🎯 Goals: Become Expert in ReactJS, NextJS, Strapi, ExpressJS, NodeJs and TypeScript
+- 🎯 Goals: Become Expert in ReactJS, NextJS, Strapi, ExpressJS, NodeJs,TypeScript and MongoDB.
 
   <a href="https://github.com/ziayamin" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ziayamin?label=Github&style=flat">
