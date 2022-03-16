@@ -15,7 +15,7 @@
   </a>
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Zia Yamin's github stats](https://github-readme-stats.vercel.app/api?username=ziayamin&count_private=true&show_icons=true&theme=synthwave)](https://github.com/ziayamin/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Zia Yamin's github stats](https://github-readme-stats.vercel.app/api?username=ziayamin&count_private=true&show_icons=true&theme=synthwave)](https://github.com/ziayamin/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziayamin&layout=compact)](https://github.com/ziayamin/github-readme-stats)|
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
 
