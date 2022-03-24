@@ -15,7 +15,7 @@
   </a>
 |GITHUB STATS|
 |:---:|
-|[![Zia Yamin Mohammadi's github stats](https://github-readme-stats.vercel.app/api?username=ziayamin&count_private=true&show_icons=true&theme=react)](https://github.com/ziayamin/github-readme-stats)|
+|[![Zia Yamin's github stats](https://github-readme-stats.vercel.app/api?username=ziayamin&count_private=true&show_icons=true&theme=react)](https://github.com/ziayamin/github-readme-stats)|
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
