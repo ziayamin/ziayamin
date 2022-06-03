@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zia</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
+
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 These days I'm working on different kinds of projects!
