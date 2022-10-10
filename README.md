@@ -23,7 +23,7 @@
 <br>
 
 
-[![Zia's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ziayamin&custom_title=zia%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/ziayamin/)
+[![Zia Yamin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ziayamin&custom_title=zia%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/ziayamin/)
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
