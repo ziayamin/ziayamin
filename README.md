@@ -13,9 +13,17 @@
   <a href="https://github.com/ziayamin" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=ziayamin&label=Views&color=brightgreen&style=flat" alt="ziayamin" />
   </a>
-|GITHUB STATS|
-|:---:|
-|[![Zia Yamin's github stats](https://github-readme-stats.vercel.app/api?username=ziayamin&count_private=true&show_icons=true&theme=react)](https://github.com/ziayamin/github-readme-stats)|
+<br/>
+<p align="left">
+  <a href="https://github.com/ziayamin/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ziayamin&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ziayamin&theme=algolia&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
+[![Zia's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ziayamin&custom_title=zia%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/ziayamin/)
 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me
