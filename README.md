@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently learning **What i Need**
 - 🎯 Goals: Become Expert in ReactJS, NextJS, Strapi, ExpressJS, NodeJs,TypeScript and MongoDB.
 
-  <a href="https://github.com/ziayamin" target="_blank">
+  <a href="https://github.com/ziayamin?tab=followers" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ziayamin?label=Github&style=flat">
   </a>
   <a href="https://github.com/ziayamin" target="_blank">
