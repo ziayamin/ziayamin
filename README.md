@@ -7,6 +7,8 @@
 - 👨‍💻 I’m currently learning **What i Need**
 - 🎯 Goals: Become Expert in ReactJS, NextJS, Strapi, ExpressJS, NodeJs,TypeScript and MongoDB.
 
+<a href="https://app.daily.dev/ziayamin2"><img src="https://api.daily.dev/devcards/fb9549e5245440918bbfb0513249f486.png?r=wfm" width="400" alt="Zia Yamin's Dev Card"/></a>
+
   <a href="https://github.com/ziayamin?tab=followers" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ziayamin?label=Github&style=flat">
   </a>
