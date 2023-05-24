@@ -42,4 +42,17 @@ My abilities:
 
 About me:
 
-I graduated from Herat University with a degree in Computer Science. I have more than 4 years of work experience in web development and web design.
+Front End developer with 4+ years of experience using React, JavaScript, TypeScript, HTML, CSS, SASS, and Tailwind CSS paired with Styled Components helped companies to build fast, scalable, complex, and responsive web applications. 
+
+Tech stack and tools:
+
+JavaScript / TypeScript
+React.js
+Next.js
+Redux.js
+React Query
+RESTFul APIs
+HTML5, CSS, SASS, and Tailwind CSS
+Ant-Design, Material UI, React-Bootstrap, Bootstrap
+Webpack, Vite
+Chart.js, Rechart
