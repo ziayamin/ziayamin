@@ -35,11 +35,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zia-yamin-165200173/)
 
 
-My abilities:
-| Front-end | Technologies |query language|
-| :---         |     :---:      | :---:|---: |
-| HTML, CSS, Bootstrap, React-bootstrap, Tailwind, Ant-design, Javascript(react.js, next.js) and JQuery   |Ajax    |GraphQL|
-
 About me:
 
 Front-end developer with 5+ years of experience using React, JavaScript, TypeScript, HTML, CSS, Shadcn UI, and Tailwind CSS paired with Styled Components helped companies build fast, scalable, complex, and responsive web applications. 
