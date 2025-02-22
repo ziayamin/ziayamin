@@ -36,13 +36,13 @@
 
 
 My abilities:
-| Front-end | Back-end | Technologies |query language|
+| Front-end | Technologies |query language|
 | :---         |     :---:      | :---:|---: |
-| HTML, CSS, Bootstrap, React-bootstrap, Tailwind, Ant-design, Javascript(react.js, next.js) and JQuery   | PHP(Laravel, Codeigniter) and Strapi     |Ajax    |GraphQL|
+| HTML, CSS, Bootstrap, React-bootstrap, Tailwind, Ant-design, Javascript(react.js, next.js) and JQuery   |Ajax    |GraphQL|
 
 About me:
 
-Front End developer with 4+ years of experience using React, JavaScript, TypeScript, HTML, CSS, SASS, and Tailwind CSS paired with Styled Components helped companies to build fast, scalable, complex, and responsive web applications. 
+Front-end developer with 5+ years of experience using React, JavaScript, TypeScript, HTML, CSS, Shadcn UI, and Tailwind CSS paired with Styled Components helped companies build fast, scalable, complex, and responsive web applications. 
 
 Tech stack and tools:
 
@@ -50,9 +50,9 @@ JavaScript / TypeScript
 React.js
 Next.js
 Redux.js
+Zustand
 React Query
 RESTFul APIs
-HTML5, CSS, SASS, and Tailwind CSS
+HTML5, CSS, ShadcnUI, and Tailwind CSS
 Ant-Design, Material UI, React-Bootstrap, Bootstrap
-Webpack, Vite
 Chart.js, Rechart
